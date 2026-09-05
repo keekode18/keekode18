@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Keerthi 👋
 
-<!--
-**keekode18/keekode18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Information Science Student | Aspiring Software Developer | Java Enthusiast
 
-Here are some ideas to get you started:
+I'm an Information Science student interested in **software development, Java, and problem-solving**. I enjoy learning new technologies and building projects that strengthen my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** Java, Python, C, HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, Eclipse
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Web Development
+- Software Development Practices
+
+## Goals
+
+- Strengthen my programming and problem-solving skills
+- Build practical and meaningful projects
+- Gain industry experience through internships
+- Continuously learn and grow as a developer
+
+## Connect
+
+I'm open to learning, collaboration, and opportunities in software development.
+
+
+
