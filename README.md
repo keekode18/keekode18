@@ -1,4 +1,4 @@
-# Hi, I'm Keerthi 👋
+# Hi, I'm Keerthi
 
 ### Information Science Student | Aspiring Software Developer
 
